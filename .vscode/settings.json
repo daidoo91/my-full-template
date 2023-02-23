@@ -20,6 +20,9 @@
       "**/CVS": true
    },
    "files.autoSave": "off",
-   "workbench.colorTheme": "Visual Studio Dark",
+   "workbench.colorTheme": "Xcode Partial (Dark)",
    "editor.defaultFormatter": "HookyQR.beautify",
+   "[html]": {
+      "editor.defaultFormatter": "vscode.html-language-features"
+   },
 }
